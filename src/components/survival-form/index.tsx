@@ -94,7 +94,7 @@ export const SurvivalForm: React.FC<Props> = ({ form: { register, setValue , con
             {/* include validation with required or other standard HTML validation rules */}
             <Input {...register("exampleRequired", { required: true })} />
 
-            <input type="submit" />
+            <button type="submit">Рассчитать</button>
         </Form>
     );
 };

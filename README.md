@@ -1,3 +1,7 @@
+# DOSHIRAK SURVIVAL
+
+[Макеты](https://www.figma.com/file/83Ooezp36Sg9op5LS9aYbO?embed_host=share&kind=&node-id=43%3A1240&viewer=1)
+
 This project was bootstrapped with [Create React App with Cypress TypeScript](https://github.com/cypress-io/cra-template-cypress-typescript).
 
 ## Available Scripts
